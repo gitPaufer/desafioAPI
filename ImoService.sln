@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImoService", "ImoService\ImoService.csproj", "{009E7B05-BDD8-4D0F-874C-A0B2722C5CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009E7B05-BDD8-4D0F-874C-A0B2722C5CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009E7B05-BDD8-4D0F-874C-A0B2722C5CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009E7B05-BDD8-4D0F-874C-A0B2722C5CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009E7B05-BDD8-4D0F-874C-A0B2722C5CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BEF6205-70A3-455E-B8B0-6D1F65B322C9}
+	EndGlobalSection
+EndGlobal
